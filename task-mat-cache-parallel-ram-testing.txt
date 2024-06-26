@@ -1,0 +1,3 @@
+I ran all the tests on 110 files, each containing 110.000 lines.
+The runtime for the parallel implementation while on HDD was 44 minutes.
+The runtime for the parallel implementation while on RAM was 43 minutes.

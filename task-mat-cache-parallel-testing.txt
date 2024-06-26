@@ -1,0 +1,5 @@
+I ran all the tests on 110 files, each containing 110.000 lines.
+The runtime for the parallel implementation was 33 minutes.
+The runtime for the standard, non-parallel implementation was 106 minutes.
+
+
